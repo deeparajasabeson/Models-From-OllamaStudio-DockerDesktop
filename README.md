@@ -1,3 +1,4 @@
+<img width="6372" height="3986" alt="diagram (5)" src="https://github.com/user-attachments/assets/cd7825f0-7365-4610-a7f1-657d8dfa5800" />
 Project to test how locally downloaded open source Model using Ollama Studio is connected to answer query from user in chat bot.
 
   <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/38408a77-92e9-465f-8a2b-5a4e3fc01bc7" />
